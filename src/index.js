@@ -7,7 +7,7 @@ import App from './App';
 
 ReactDOM.render(
   <React.StrictMode>
-    <BrowserRouter>
+    <BrowserRouter basename="/e-commerce/">
       <App />
     </BrowserRouter>
   </React.StrictMode>,
