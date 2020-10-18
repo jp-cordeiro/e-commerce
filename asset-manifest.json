@@ -5,17 +5,17 @@
     "main.js.map": "/e-commerce/static/js/main.b16c8e09.chunk.js.map",
     "runtime-main.js": "/e-commerce/static/js/runtime-main.96a20351.js",
     "runtime-main.js.map": "/e-commerce/static/js/runtime-main.96a20351.js.map",
-    "static/js/2.8f4abbc3.chunk.js": "/e-commerce/static/js/2.8f4abbc3.chunk.js",
-    "static/js/2.8f4abbc3.chunk.js.map": "/e-commerce/static/js/2.8f4abbc3.chunk.js.map",
+    "static/js/2.165a50c7.chunk.js": "/e-commerce/static/js/2.165a50c7.chunk.js",
+    "static/js/2.165a50c7.chunk.js.map": "/e-commerce/static/js/2.165a50c7.chunk.js.map",
     "index.html": "/e-commerce/index.html",
-    "precache-manifest.417a6be9d2930688cc2fe5161e16eeb0.js": "/e-commerce/precache-manifest.417a6be9d2930688cc2fe5161e16eeb0.js",
+    "precache-manifest.729f35be9ff40198ca52bb203f2ea9fc.js": "/e-commerce/precache-manifest.729f35be9ff40198ca52bb203f2ea9fc.js",
     "service-worker.js": "/e-commerce/service-worker.js",
     "static/css/main.7cf96e77.chunk.css.map": "/e-commerce/static/css/main.7cf96e77.chunk.css.map",
-    "static/js/2.8f4abbc3.chunk.js.LICENSE.txt": "/e-commerce/static/js/2.8f4abbc3.chunk.js.LICENSE.txt"
+    "static/js/2.165a50c7.chunk.js.LICENSE.txt": "/e-commerce/static/js/2.165a50c7.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.96a20351.js",
-    "static/js/2.8f4abbc3.chunk.js",
+    "static/js/2.165a50c7.chunk.js",
     "static/css/main.7cf96e77.chunk.css",
     "static/js/main.b16c8e09.chunk.js"
   ]
